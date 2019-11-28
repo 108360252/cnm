@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.c
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(13,9): warning C4566: 由通用字元名稱 '\u6574' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(13,9): warning C4566: 由通用字元名稱 '\u6578' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(13,9): warning C4566: 由通用字元名稱 '\u9663' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(13,9): warning C4566: 由通用字元名稱 '\u5217' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(17,9): warning C4566: 由通用字元名稱 '\u9663' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(17,9): warning C4566: 由通用字元名稱 '\u5217' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(17,9): warning C4566: 由通用字元名稱 '\u5927' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(17,9): warning C4566: 由通用字元名稱 '\u5C0F' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(20,9): warning C4566: 由通用字元名稱 '\u9663' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(20,9): warning C4566: 由通用字元名稱 '\u5217' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(20,9): warning C4566: 由通用字元名稱 '\u6700' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(20,9): warning C4566: 由通用字元名稱 '\u5927' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(20,9): warning C4566: 由通用字元名稱 '\u6578' 表示的字元，無法在目前的字碼頁中表示 (1252)
+C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\source\Main.c(20,9): warning C4566: 由通用字元名稱 '\u5B57' 表示的字元，無法在目前的字碼頁中表示 (1252)
+  HW.vcxproj -> C:\Users\User\Desktop\高階語言程式實習\1080360252_許能磁5\6.37\HW\HW\..\..\temp\debug\HW.exe
